@@ -10,3 +10,6 @@ I also didn't deploy it to netlify,
 1. Clone this repo
 2. Run `npm install` or `yarn`
 3. Run `npm start` or `yarn start`
+
+If you want to use this in development mode, you have to add **REACT_APP_GITHUB_CLIENT_SECRET** and **REACT_APP_GITHUB_CLIENT_ID** to your local environemt variables. If you want to deploy it make sure to add **GITHUB_CLIENT_ID** and **GITHUB_CLIENT_SECRET** to the environment variables in the server.
+You also need to run `npm run build` before deploying it.
