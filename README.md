@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # GitHub Finder
 
 I created this app using [Brad Traversy's](https://github.com/bradtraversy)  **REACT FRONT TO BACK 2019** course.
-I also did'nt deploy it to netlify, 
+I also didn't deploy it to netlify, 
 
 @bradtraversy
 
